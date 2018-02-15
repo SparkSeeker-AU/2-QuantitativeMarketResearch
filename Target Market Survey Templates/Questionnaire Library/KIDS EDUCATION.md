@@ -30,20 +30,20 @@ _For the item 1, the survey questionnaire can be designed as follows, including 
    40+
    other
 
-2. Gender
+1. Gender
 
    Male
    Female
 
-3. Which city do you normally live in?
-4. What's the highest degree or level of school you have completed?
+1. Which city do you normally live in?
+1. What's the highest degree or level of school you have completed?
 
    Primary
    Secondary
    Tertiary
    Post-graduate and above
 
-5. What is your yearly total family income (RMB)?
+1. What is your yearly total family income (RMB)?
 
    Below 50,000*
    50,000-200,000
@@ -52,37 +52,37 @@ _For the item 1, the survey questionnaire can be designed as follows, including 
    600,000-1,000,000
    Above 1,000,000
 
-   > * Annual per capita income of urban households in China in 2016 is RMB 23,821. (source: National Bureau of Statistics of the  People’s Republic of China). Assumption: average 1.8 people by average earn income for a family, i.e. 23821*1.8=~ 43,000.
+   > *Annual per capita income of urban households in China in 2016 is RMB 23,821. (source: National Bureau of Statistics of the  People’s Republic of China). Assumption: average 1.8 people by average earn income for a family, i.e. 23821*1.8=~ 43,000.
 
-6. How many before school age kids in your family?
+1. How many before school age kids in your family?
 
    1
    2
    3
    over 3
 
-7. How many kinder age boys (age from 3 to 7) in your family?
+1. How many kinder age boys (age from 3 to 7) in your family?
 
    None
    1
    2
    3+
 
-8. How many kinder age girls (age from 3 to 7) in your family?
+1. How many kinder age girls (age from 3 to 7) in your family?
 
    None
    1
    2
    3+
 
-9. What is top 1 reason you want your kinder kids start learning English?
+1. What is top 1 reason you want your kinder kids start learning English?
 
    Give my child equal opportunity as many other kids I know have started learning English at young age
    English study could benefit my kid's overall development
    Good English language foundation will prepare my kid for future overseas study opportunities
    Other, please specify_________________
 
-10. Which individual or organisation provides primary carer to your kid?
+1. Which individual or organisation provides primary carer to your kid?
 
    Parent(s)
    Grandparent(s)
@@ -90,23 +90,23 @@ _For the item 1, the survey questionnaire can be designed as follows, including 
    Nanny
    Other, please specify_________________
 
-11. How does your kid usually study English language?
+1. How does your kid usually study English language?
 
    Through designated childcare centre program
    Online learning course
    Private tutor class
    Other, please specify_________________
 
-12. At which age did your kinder age kids start learning English?
+1. At which age did your kinder age kids start learning English?
 
    3
    4
    5
    6 and +
 
-13. Do you consider English language top priority compare to other learnings?
-14. Have you allocated routine time slot with your kids to help (him/her) learn English?
-15. (Control question) What do you think of a game-based language learning application?
+1. Do you consider English language top priority compare to other learnings?
+1. Have you allocated routine time slot with your kids to help (him/her) learn English?
+1. (Control question) What do you think of a game-based language learning application?
 
    I will definitely love it
    Would have a try it that’s free
@@ -115,14 +115,14 @@ _For the item 1, the survey questionnaire can be designed as follows, including 
 
 _For the item 2, the survey questionnaire can be designed as follows, including information about the top product attributes for interests from potential customers._
 
-16. What will attract you the most to use an English learning applications?
+1. What will attract you the most to use an English learning applications?
 
    It's a mandatory app required my kid's existing English language learning program.
    It promotes interaction between kids and parents
    Fun to play by kids
    It follow a clear English curriculum and allows teacher feedback
 
-17. What do you think of XXX application*?
+1. What do you think of XXX application*?
 
    Never heard of
    Heard it was good, but has not have chance to try yet
@@ -130,7 +130,7 @@ _For the item 2, the survey questionnaire can be designed as follows, including 
    Boring, mediocre just like many other similar apps
    If you like it, what is your favorite feature of the app?__________________
 
-   > * Can use a competitor's similar product to test the suveyee's reaction.
+   > *Can use a competitor's similar product to test the suveyee's reaction.
 
 _For the item 3, the survey questionnaire can be designed as follows, including information about top product attributes for the interests from potential B2B partners_
 
