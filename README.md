@@ -15,4 +15,4 @@ Don't worry if you haven't used github before. We provide a easy to understand u
 
 Enjoy!
 
-(James Mao @ SparkSeeker Team - [www.sparkseeker.com.au](https://www.sparkseeker.com.au) | [contact@sparkseeker.com.au](mailto:contact@sparkseeker.com.au))
+(SparkSeeker Team - [www.sparkseeker.com.au](https://www.sparkseeker.com.au) | [contact@sparkseeker.com.au](mailto:contact@sparkseeker.com.au))
