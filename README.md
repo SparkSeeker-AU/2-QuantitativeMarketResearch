@@ -6,7 +6,7 @@ The following digital content wil be provided free-of-charge.
 
 * **Market Research Approach**
 * **Market Research Key Datasets**
-* **Target Market Survey Templates**
+* **[Target Market Survey Templates](https://github.com/SparkSeeker-AU/2-QuantitativeMarketResearch/blob/master/Target%20Market%20Survey%20Templates/README.md)**
 
 Please submit your feedback through using the Issues function.
 Anyones' kindly contributions are very welcome. Please feel free to fork this and submit a pull request.
@@ -15,4 +15,4 @@ Don't worry if you haven't used github before. We provide a easy to understand u
 
 Enjoy!
 
-(James Mao @ SparkSeeker Team - [www.sparkseeker.com.au](https://www.sparkseeker.com.au){:target="_blank"} | [contact@sparkseeker.com.au](mailto:contact@sparkseeker.com.au))
+(James Mao @ SparkSeeker Team - [www.sparkseeker.com.au](https://www.sparkseeker.com.au) | [contact@sparkseeker.com.au](mailto:contact@sparkseeker.com.au))

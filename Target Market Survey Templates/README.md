@@ -7,7 +7,7 @@ Overtime, we will introduce more and more samples. If you are after new samples 
 
 ## Survey Design Principles
 
-We found a successful survey usually have a predefined clear scope of which marketing mix elements it targets ([5C/4P marketing mix model](https://archieanugrah.wordpress.com/2012/06/28/5c-4p-basic-case-study-framework/){:target="_blank"}). That will make help questionnaire design to be logical, precise, comprehensive yet succinct.
+We found a successful survey usually have a predefined clear scope of which marketing mix elements it targets ([5C/4P marketing mix model](https://archieanugrah.wordpress.com/2012/06/28/5c-4p-basic-case-study-framework/)). That will make help questionnaire design to be logical, precise, comprehensive yet succinct.
 
 Using the 5C 4P model, a target market survey can usually cover the marketing 4C (including customer, competition, collaborator and context) and 2P (including Product and Promotion); The information regarding Place (or target location / dictribution) can be answered later when equipped with additional information from the initial survey and follow up focus groups. The last P - pricing question will be answered when in-depth pricing design is completed.
 
@@ -19,4 +19,4 @@ If you aggree with our method yet don't have the resources or time to conduct th
 
 Enjoy!
 
-(James Mao @ SparkSeeker Team - [www.sparkseeker.com.au](https://www.sparkseeker.com.au){:target="_blank"} | [contact@sparkseeker.com.au](mailto:contact@sparkseeker.com.au)
+(James Mao @ SparkSeeker Team - [www.sparkseeker.com.au](https://www.sparkseeker.com.au) | [contact@sparkseeker.com.au](mailto:contact@sparkseeker.com.au)
