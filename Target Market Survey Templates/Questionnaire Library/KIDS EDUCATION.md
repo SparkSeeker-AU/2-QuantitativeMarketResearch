@@ -13,13 +13,13 @@ We will continue adding more questions to the list.
 
 #### Objective: Understand your end user, channel partners and their needs (2C & 1P: Customer, Collaborator & Product)
 
-Assuming you are seeking information of the following three:
+Assuming you are seeking information from the following three aspects:
 
 1. What kind of families are likely to be the end users of the product? (Note: it is a typical classification question whereby you can identify your potenital customer.)
 2. Which product characteristics (attributes) are most important to the end users?
 3. Which product attributes are most important to your B2B channel partners?
 
-_For the item 1, the survey questionnaire can be designed as follows, including information about demographic, income, family composition, motive of learning, childcare situation, channel to learn English, time and priority, and age of learning._
+_For the 1st aspect, the survey questionnaire can be designed as follows, including information about demographic, income, family composition, motive of learning, childcare situation, channel to learn English, time and priority, and age of learning:_
 
 1. What is your age?
 
@@ -113,13 +113,13 @@ _For the item 1, the survey questionnaire can be designed as follows, including 
    Not sure yet, need more information about this game
    Not interested
 
-_For the item 2, the survey questionnaire can be designed as follows, including information about the top product attributes for interests from potential customers._
+_For the 2nd aspect, the survey questionnaire can be designed as follows, including information about the top product attributes for interests from potential customers._
 
 1. What will attract you the most to use an English learning applications?
 
    It's a mandatory app required my kid's existing English language learning program.
    It promotes interaction between kids and parents
-   Fun to play by kids
+   Fun to play by kids and content update frequently
    It follow a clear English curriculum and allows teacher feedback
 
 1. What do you think of XXX application*?
@@ -128,9 +128,128 @@ _For the item 2, the survey questionnaire can be designed as follows, including 
    Heard it was good, but has not have chance to try yet
    It is really fun and I will recommend others as well
    Boring, mediocre just like many other similar apps
-   If you like it, what is your favorite feature of the app?__________________
+   Initially was fun, but soon it gets boring again
+   If you are willing to recommend to others, what is your favorite feature of the app?
 
-   > *Can use a competitor's similar product to test the suveyee's reaction.
+   > *Can use a competitor's similar product to test the suveyee's reaction
 
-_For the item 3, the survey questionnaire can be designed as follows, including information about top product attributes for the interests from potential B2B partners_
+_For the 3nd aspect, the survey questionnaire can be designed as follows, including information about top product attributes for the interests from potential B2B partners:_
 
+1. What is the most important product feature you believe that can lead to a successful entry of the very competitive kids English learning app market?
+
+   Accompanied with curriculumn so suitable for learning centre as well as home use
+   Frequent update of new content and fun to play like a game
+   It prompts parents involvement into kid language learning together
+
+### Category Two
+
+#### Objective: Understand your competition (1C & 1P: Competitor & Product)
+
+Assuming you are seeking information from the following two aspects:
+
+1. What are the top alternatives to your product that the end users believe can provide the similar benefit? What are pros/cons in their views of those alternatives?
+2. What are the potential competitors that are leveraging the similar B2B channel partners? What are pros/cons in their views of those competitors?
+
+_For the 1st aspect, the survey questionnaire can be designed as follows, including information about competitors' products:_
+
+1. List best 2 English learning applications from what you are using or what you’ve heard of?
+1. What are the goods and bads of each of those applications?
+
+_For the 2nd aspect, the survey questionnaire can be designed as follows, including information about channel partners' view of those competitors:_
+
+1. At present, what are the most successful English language learning products you are selling / promoting?
+1. What are the goods and bads of the products?
+
+### Category Three (Optional - you can use in-depth interview and focus group instead)
+
+#### Objective: Understand the promotion channel (1P: Promotion)
+
+Assuming you are seeking information from the following three aspects:
+
+1. How end users are doing pre-purchase research of the similar product?
+2. How end users are making their purchase decision?
+3. How end users promote the similar product to their network?
+
+_Combining all three aspects, the survey questionnaire can be designed as follows:_
+
+1. Where do you look for the best recommendations for English language study?
+
+   Wechat public account
+   Commercials from TV
+   Commercials at local community centre
+   Commercials from shopping center
+   Childcare centers, carers
+   Other parents, word of mouth
+   Search by ranking from app store or search engine
+   Other, please specify__________________
+
+1. Besides product features, what is the most important thing you will take into consideration when considering purchase an English language learning application?
+
+   Screen time control
+   Whether it is originally designed by a foreign company
+   Whether it is free or paid app
+   Other, please specify_______________
+
+1. Based on your previous experience, through which (research) approach you finally decided to purchase an application from online store?
+
+   Seek comments from friends who had user experience
+   Search engine, including baidu, 360 etc
+   Review from famous parenting weibo
+   Review from famous parenting wechat public account
+   App store ranking
+
+1. Under what circumstance, you would recommend a good language learning application that your kids like?
+
+   If myself also find the learning experience interesting
+   If I find an English language learning centre also adopts or recommends the app for teaching purpose
+   If I find it is getting positive review from social network (e.g. wechat/weibo)
+   If I find it is shown on advertisement
+
+1. If you are going to recommend a good application, you will do it through?
+
+   Wechat
+   Email
+   Community catchup
+   Leave app store positve review
+
+### Category Four (Optional - you can use in-depth interview and focus group instead)
+
+#### Objective: Understand the product usage context and user behaviour?  (1C & 1P: Context & Product)
+
+Assuming you are seeking information from the following two aspects:
+
+1. How end users are most likely to use the product?
+2. What kind of demo scenarios B2B channel partners require?
+
+_For the 1st aspect, the survey questionnaire can be designed as follows, including information about consumers usage patterns:_
+
+1. How would your kinder age kid access and English language learning application?
+
+   Mobile phone or small screen tablet
+   Tablet with average and bigger size screen
+   Computer or laptop
+   Gaming console or Smart TV
+   Purposely built kids tablet with pre-installed learning app.
+
+1. How much screen time do you normally allow your kinder kids to spend at one time?
+
+   strictly less than 30 minutes per time
+   30 minutes to 1hour
+   1 to 2 hours
+   No specific time restrictions, my kid will get bored after a while
+
+1. At which place(s) do your kinder kids to learn/play English learning apps?
+
+   At home
+   Having meals with our friends
+   They play wherever they go if they are fond of this app
+   At English learning centre
+   Family outing
+
+_For the 2nd aspect, the survey questionnaire can be designed as follows, including information about channel partners' view of consumer patterns:_
+
+1. How the English language application is going to be demoed by you?
+
+   Demoed through large screen display at language learning centre with pre-recorded action
+   It will be used by language certre teachers on large touch screen devices as teaching tool
+   It will only be demoed on mobile and tablet devices with recommendations for parents to download at home
