@@ -3,6 +3,9 @@
 ## Overview
 
 Under this section, we have included an overall survey design principles and individual questionnaire library covers common business scenarios.
+
+* [KIDS EDUCATION](https://github.com/SparkSeeker-AU/2-QuantitativeMarketResearch/blob/master/Target%20Market%20Survey%20Templates/Questionnaire%20Library/KIDS%20EDUCATION.md)
+
 Overtime, we will introduce more and more samples. If you are after new samples or would like to provide feedback, please let us know using Issues function. You contributions are also welcome, please feel free to submit a pull request.
 
 ## Survey Design Principles
