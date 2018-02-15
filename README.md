@@ -4,6 +4,10 @@
 
 The following digital content wil be provided free-of-charge.
 
+* _Market Research Approach_
+* _Market Research Key Datasets_
+* _Target Market Survey Templates_
+
 Please submit your feedback through using the Issues section.
 Anyones' kindly contributions are very welcome. Please feel free to fork this and submit a pull request.
 
