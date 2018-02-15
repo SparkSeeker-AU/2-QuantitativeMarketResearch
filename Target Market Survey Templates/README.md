@@ -2,7 +2,7 @@
 
 ## Overview
 
-Under this section, we have included an overall survey design principles and individual questionnaire library covers common business scenarios.
+Under this section, we have included an overall survey design principles and individual questionnaire library covers the following common business scenarios.
 
 * [KIDS EDUCATION](https://github.com/SparkSeeker-AU/2-QuantitativeMarketResearch/blob/master/Target%20Market%20Survey%20Templates/Questionnaire%20Library/KIDS%20EDUCATION.md)
 
