@@ -2,31 +2,39 @@
 
 ## Overview
 
-We developed this questionnaire library based on a recent enquiry from a kids english program provider. The questions with some modification can be used to research other products targeting young children
+We developed this questionnaire library in response to an enquiry from a kids english program provider. The questions with some modification can be used to research other products targeting under school age children.
+
+The surveyees will include parents and channel partners/wholesalers
+We will continue adding more questions to the list.
 
 ## Questions and Example Answer Options
 
-### CATEGORY ONE
+### Category One
 
-Objective: Understand your end user, channel partners and their needs (customer, collaborator &product)
+#### Objective: Understand your end user, channel partners and their needs (2C & 1P: Customer, Collaborator & Product)
+
 Assuming you are seeking information of the following three:
 
-1. What kind of families are likely to be the end users of the product? (Note: typical classification questions)
+1. What kind of families are likely to be the end users of the product? (Note: it is a typical classification question whereby you can identify your potenital customer.)
 2. Which product characteristics (attributes) are most important to the end users?
-3. Which attributes are most important to your B2B channel partners?
+3. Which product attributes are most important to your B2B channel partners?
 
-For the information 1, the survey questionnaire can be designed as follows, including information about demographic, income, family composition, motive of learning, childcare situation, channel to learn English, time and priority, and age of learning.
+For the item 1, the survey questionnaire can be designed as follows, including information about demographic, income, family composition, motive of learning, childcare situation, channel to learn English, time and priority, and age of learning.
 
 1. What is your age?
-  20-25
-  25-30
-  30-35
-  35-40
-  40+
-  other
+
+   20-25
+   25-30
+   30-35
+   35-40
+   40+
+   other
+
 2. Gender
-  M
-  F
+
+   M
+   F
+
 3. Which city do you normally live in?
 4. What's the highest degree or level of school you have completed?
   Primary
