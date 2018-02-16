@@ -2,9 +2,9 @@
 
 ## Overview
 
-We developed this questionnaire library in response to an enquiry from a kids English learning program provider. The questions with some modification can be used to research other products targeting under school age children.
+We developed this questionnaire example in response to an enquiry from a kids English learning program provider. The questions with some modifications can be used to research other products targeting under school age children.
 
-The surveyees will include parents and channel partners/wholesalers.
+The surveyees include parents and channel partners/wholesalers.
 
 ## Example Questions and Answer Options
 
@@ -14,7 +14,7 @@ The surveyees will include parents and channel partners/wholesalers.
 
 Assuming you are seeking information from the following three aspects:
 
-1. What kind of families are likely to be the end users of the product? (Note: it is a typical classification question whereby you can identify your potenital customer.)
+1. What kind of families are likely to be the end users of the product? (Note: it is a typical classification question whereby you can identify your potential consumer.)
 2. Which product characteristics (attributes) are the most important ones from a consumer's perspective?
 3. Which product attributes are the most important ones to your B2B channel partners?
 
