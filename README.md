@@ -9,9 +9,9 @@ The following digital content wil be provided free-of-charge.
 * **[Target Market Survey Templates](https://github.com/SparkSeeker-AU/2-QuantitativeMarketResearch/tree/master/Target%20Market%20Survey%20Templates)**
 
 Please submit your feedback through using the Issues function.
-Anyones' kindly contributions are very welcome. Please feel free to fork this and submit a pull request.
+Your contributions are very welcome. Please feel free to fork this to your own repository and submit a pull request.
 
-Don't worry if you haven't used github before. We provide a easy to understand usage guide under the wiki section to assist you if you are not familiar with the github (i.e. how to submit an issue, how to contribute through pull request.)
+Don't worry if the above teams doesn't make sense since you haven't used github before. We are going to provide a simple usage guide under the wiki section to assist you github (i.e. how to submit an issue, how to contribute through pull request.)
 
 Enjoy!
 
