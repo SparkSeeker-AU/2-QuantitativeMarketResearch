@@ -27,12 +27,14 @@ A secondary research, at least a basic check of the macro market is very much in
 For commodities or general categories of goods, there are import data from China customs can be purchase from Chinese data firms.
 
 For specialised products, you need to estimate using a concept called proxy. Just like the name suggests, we can use the known data related to proxy to proprotionally estimation the unknown data of the actual products or services.
-Take a product like infant formular for 9-18 mth toddler stage for example. If you want to know how big the national market is, there is no such granular data available for the exact products. But you can find the overall product group under the China customs data with a china custom item code (HS code) - 2106909001 and Article English Name: Special infant milk powder of partial hydrolysis formular of lactoprotein, deep hydrolysis formula of lactoprotein, amino acid formular. 
+
+Taking a product like infant formular for 9-18 mth toddler stage for example. If you want to know how big the national market is, there is no such granular data available for the exact products. But you can find the overall product group under the China customs data with a china custom item code (HS code) - 2106909001 and Article English Name: Special infant milk powder of partial hydrolysis formular of lactoprotein, deep hydrolysis formula of lactoprotein, amino acid formular. 
 Knowing that similar infant formular product is also popular on ecommerce channels, you can then search for the most similar product range among websites such as taobao.com, jd.com or amazon.cn (remember to change the location to China). Track the top several sellers sales of the exact kind of product for a short period vs. the top serverl sellers sales of all product range for the same period of time, you can estimate the precentage of the product sales vs product range sales. With total import data of infant formular from the custom, you can estimate the total market size for the toddler stage product using this precent as well.
 
 For services, customs' category system doesn't seem to be very helpful. We usually use other proxies for estimations instead. 
 We have to be creative in choosing those proxies to remain cost-effective. Meanwhile keep it simple as back-of-the-envelope calculations so when additional data is available, we can revise the estimation easily and quickly.
 
+Taking an education professional wants to provide management consulting services to Chinese education providers for example, it 
 
 ## Mesco Market Research
 
