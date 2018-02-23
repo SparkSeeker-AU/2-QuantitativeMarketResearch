@@ -10,13 +10,21 @@ For any foriegn product or service to be succeeful in China, the provider must f
 
 ## Marco Market Research
 
-Marco research targets the whole China market. We should start from paying particular attention to both the central government policies, reports and released data. Don't worry too much about the data accuracy at this stage. If there is a good alignment between the policies and reports it promotes and the data trend, then it is a good sign that the government is actively promoting activities in certain areas.
+Marco research targets the whole China market. We should start from paying particular attention to both the central government policies, reports and released data. if there is a good alignment between the policies and reports it promotes and the data trend, then it is an obvious indication that the government is actively promoting activities in certain areas.
 
 **Primary Research**
 
-The primary reserach 
+The primary reserach at a Macro market level is optional. We would recommending do so for products / services under a watch list that is likely subject to existing complex local regulations or up-coming new regulations. We will compose a watch list and share here soon.
+
+Though central government officials can be a good interview source, they may not be easily accessible. There are other good sources for primary research at the Macro market level such as:
+1. Major government sponsored think-tanks - look for strategic directions alignment or risks
+2. Major domestic venture capital advisors - look for near term opportunities or risks
+3. Advisors have major state owned enterprises backgrounds - look for near term opportunities or risks
 
 **Secondary Research**
+
+A secondary research, at least a basic review of the macro market is very much needed. 
+
 
 ## Mesco Market Research
 
