@@ -1,4 +1,4 @@
-# 2-QuantitativeMarketResearch
+# 2-QuantitativeQualitativeMarketResearch
 
 ## Second Step - China Marketing Journey
 
