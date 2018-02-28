@@ -34,7 +34,7 @@ Knowing that similar infant formula product is also popular on ecommerce channel
 For services, customs' category system doesn't seem to be very helpful. We usually use other proxies for estimations instead. 
 We have to be creative in choosing those proxies and keeping it simple as back-of-the-envelope calculations so when additional data is available, we can revise the estimation easily and quickly.
 
-Taking an early learning education professional who wants to provide advisory services to Chinese education providers for example, it is hard to measure the total market size using the direct research method like we did above for the toddler infant formula. Some would suggest to use the job search sites for similar positions that haven't been filled for a long period as indication, but we consider it could only have limited reference value, because majority of senior positions in China do not necessarily go through the well-known job sites, neither the job sites' advertisements status are really up-to-date and accurate. 
+Taking an early learning education professional who wants to provide advisory services to Chinese education providers for example, it is hard to measure the total market size using the direct research method like we did above for the toddler infant formula. Some would suggest to use the job search sites for similar positions that haven't been filled for a long period of time to estimate, but we consider it could only have limited reference value, at most as an indication of market needs, can not really serve as an estimation. It is because majority of senior positions in China do not necessarily go through the job sites, neither the job sites' advertisements status are really up-to-date and accurate. 
 
 ## Mesco Market Research
 
