@@ -39,7 +39,7 @@ Taking an early learning education professional who wants to provide training an
 2. Downstream consumer of such professional skills
 3. Other factors that proves to have strong correlations with the demand of such professional skills.
 
-With the above in mind, in our example, we can find a recent 2016 report released from China eduction bureau not only stated the total gap (estimated to reach about 3 million in year 2021)  between the supply of early learning education professionals and demand from Chinese kindergarten providers but also regional discrepancies. We can then use some regional sample in our mesco market research below to further refine our market estimation. 
+With the above in mind, in our example, we can find a recent 2016 report released from China eduction bureau not only stated the total gap (estimated to reach about 3 million educators in year 2021)  between the supply of early learning education professionals and demand from Chinese kindergarten providers but also regional discrepancies. With a understanding of average size training class size, we can estimate how many trainers are required by the Chinese market. And we can then use some regional sample in our mesco market research below to further refine our market estimation. 
 
 ## Mesco Market Research
 
