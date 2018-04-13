@@ -5,7 +5,7 @@
 The following digital content wil be provided free-of-charge.
 
 * **[Market Research Approach](https://github.com/SparkSeeker-AU/2-QuantitativeMarketResearch/blob/master/Market%20Research%20Approach)**
-* **Market Research Key Datasets**
+* **[Market Research Key Datasets](https://github.com/SparkSeeker-AU/2-QuantitativeQualitativeMarketResearch/blob/master/Market%20Research%20Key%20Datasets)**
 * **[Target Market Survey Templates](https://github.com/SparkSeeker-AU/2-QuantitativeMarketResearch/tree/master/Target%20Market%20Survey%20Templates)**
 
 Please submit your feedback through using the Issues function.
