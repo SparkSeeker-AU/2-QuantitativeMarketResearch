@@ -66,9 +66,9 @@ _[China Wiki](http://www.china.org.cn/wiki/node_7070522.htm) within this website
 * China City Tiers  
 The definition of China city tiers is not officially endorsed by Chinese government. Here we listed two sources for your reference.  
 Source: Australia wine  
-[PDF attachment]()  
+[PDF attachment](https://github.com/SparkSeeker-AU/2-QuantitativeQualitativeMarketResearch/tree/master/Market%20Research%20Key%20Datasets/files/001%20China%20city%20tiers%20Wine%20Australia%20source.pdf)  
 Source: Global web index  
-[PDF attachment]()  
+[PDF attachment](https://github.com/SparkSeeker-AU/2-QuantitativeQualitativeMarketResearch/tree/master/Market%20Research%20Key%20Datasets/files/002%20China%20city%20tiers%20Global%20web%20index%20source.pdf)  
 
 * China middle class  
 Source: Mckinsey & Company  
