@@ -2,7 +2,7 @@
 
 When you consider doing some market researches no matter at macro, meso or micro level in China, you will find that you are not lack of market data. Instead, there are too much either primary or secondary data online but you will possibly become lost because most of the data are conflicting with each other and do not indicate the official source.
 
-In this chapter, we would like to share with you some official or proven datasets at macro and meso level based on our previous experience.
+In this chapter, we would like to share with you some official or proven datasets based on our previous experience.
 
 Some websites as below are in Chinese.
 
@@ -138,7 +138,7 @@ Examples
     [http://www.chinameat.org/](http://www.chinameat.org/)
     * Chemical industry association  
     [http://www.cpcia.org.cn/](http://www.cpcia.org.cn/)
-    * Dairy Association of China 
+    * Dairy Association of China  
     [http://www.dac.com.cn/](http://www.dac.com.cn/)
     
 * China’s Industry Clusters  
