@@ -4,9 +4,9 @@
 
 In this section, we describe market research approaches and provide examples to demostrate usage of some classic research methods.
 
-Classic market research methods are usually classified into two types: primary and secondary. Under such classification, the primary methods are about getting insights from people, whereas the secondary methods are about dealing with data. Under such classification [multiple research methods](https://github.com/SparkSeeker-AU/2-QuantitativeMarketResearch/blob/master/Market%20Research%20Approach/images/user-research-methods-3d-framework.png) (Reference: Christian Rohrer (2018), Nielsen Norman Group.) can be utilised to better understand who will purchase the products / services, why they will buy and how can the provider delivers the value to the ones making the purchase in a cost-effective manner. However, when we are suggesting approaches to foreign entities aiming to entering Chinese market, we highlight an third dimension to the classification - the scale of a research target or commonly be known as Macro-Mesco-Micro level of analysis. It is for the better organisation of the information gathered from the complex Chinese market，because of its unique characteristics including diverse population, regional differences, and strongly controlled, influenced by multiple level of government's policies and priorities.
+Classic market research methods are usually classified into two types: primary and secondary. Under such classification, the primary methods are about getting insights from people, whereas the secondary methods are about dealing with data. Under such classification [multiple research methods](https://github.com/SparkSeeker-AU/2-QuantitativeMarketResearch/blob/master/Market%20Research%20Approach/images/user-research-methods-3d-framework.png) (Reference: Christian Rohrer (2018), Nielsen Norman Group.) can be utilised to better understand who will purchase the products / services, why they will buy and how can the provider delivers the value to the ones making the purchase in a cost-effective manner. However, when we are suggesting approaches to foreign entities aiming to entering Chinese market, we highlight an third dimension to the classification - the scale of a research target or commonly be known as Macro-Meso-Micro level of analysis. It is for the better organisation of the information gathered from the complex Chinese market，because of its unique characteristics including diverse population, regional differences, and strongly controlled, influenced by multiple level of government's policies and priorities.
 
-For any foriegn product or service to be succeeful in China, the provider must first conduct due diligence to understand the central government's agenda. Then at a mesco level - usually about a size of large metropolitan city or a province, additional research would be necessary to understand and leverage on the local government priorities. In China, majority of the up-to-date and public accessible data sources, such as the ones from the national statistic bureau, only covers the macro level and at most the mesco level. Very little micro level data is available or can be cost-effectively sourced. So at the micro level, we suggest continue with consumer and local partner centric researches.
+For any foriegn product or service to be succeeful in China, the provider must first conduct due diligence to understand the central government's agenda. Then at a meso level - usually about a size of large metropolitan city or a province, additional research would be necessary to understand and leverage on the local government priorities. In China, majority of the up-to-date and public accessible data sources, such as the ones from the national statistic bureau, only covers the macro level and at most the meso level. Very little micro level data is available or can be cost-effectively sourced. So at the micro level, we suggest continue with consumer and local partner centric researches.
 
 ## Macro Market Research
 
@@ -41,15 +41,15 @@ Taking an early learning education professional firm taht wants to provide train
 
 With the above in mind, in our example, we can find a recent 2016 report released from China eduction bureau clearly stated the total gap (estimated to reach about 3 million educators in year 2021)  between the supply of early learning education professionals and demand from Chinese kindergarten providers. With a understanding of average size of a training class, we can then estimate how many trainers are required by the Chinese market that can't be fulfilled by domestic providers - similar as the total market size available for foreign providers of such services. 
 
-## Mesco Market Research
+## Meso Market Research
 
-Mesco research targets either a large metropolitan city or a province.
+Meso research targets either a large metropolitan city or a province.
 
 **Primary Research**
 
 **Secondary Research**
 
-The secondary research at the mesco level could generally be applying filter on the macro level research data. Applying filter on a provencial level custom import data or e-commerence sales data will allow us to understand the market size at the target scale.  
+The secondary research at the meso level could generally be applying filter on the macro level research data. Applying filter on a provencial level custom import data or e-commerence sales data will allow us to understand the market size at the target scale.  
 
 ## Micro Research
 
